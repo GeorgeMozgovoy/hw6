@@ -10,3 +10,5 @@ hw6
 - Задание 3 (бонусное): 
 1. **NGRAM VIEWER** ![](https://github.com/GeorgeMozgovoy/hw6/blob/master/2018-04-08_00-20-14.png)
 2. **Sketch Engine** ![](https://github.com/GeorgeMozgovoy/hw6/blob/master/2018-04-08_00-21-15.png) , ![](https://github.com/GeorgeMozgovoy/hw6/blob/master/2018-04-08_00-21-31.png)
+
+Как можно наблюдать, на обоих графиках видно, что слово oversee становится постепенно все более популярным, и как таковых различий в графиках нет.
